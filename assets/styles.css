@@ -1,0 +1,40 @@
+/* Общие стили для приложения */
+.app-container {
+    background-color: #5c5c5e; /* Фон для всего приложения */
+    color: white; /* Цвет текста */
+    padding: 20px; /* Отступы */
+}
+
+/* Стили для вкладок */
+.tabs {
+    background-color: #5c5c5e;
+}
+
+.tab {
+    background-color: #5c5c5e; /* Цвет фон вкладок */
+    color: black; /* Цвет текста вкладок */
+    font-weight: bold; /* Жирный шрифт */
+}
+.Select-menu-outer {
+    background-color: white; /* Устанавливаем белый фон для выпадающего меню */
+    color: black; /* Устанавливаем черный цвет текста */
+}    
+.tab-selected {
+    background-color: #7a7a7a; /* Цвет выбранной вкладки */
+    color: black; /* Цвет текста выбранной вкладки */
+}
+
+/* Стили для выпадающих списков */
+.dropdown {
+    background-color: #5c5c5e; /* Фон выпадающего списка */
+    color: white; /* Цвет текста выпадающего списка */
+    border: 1px solid white; /* Рамка выпадающего списка */
+}
+
+/* Стили для графиков */
+.graph {
+    background-color: #5c5c5e; /* Фон графиков */
+    border: 2px solid rgb(37, 224, 37); /* Рамка графиков */
+    border-radius: 5px; /* Закругленные углы */
+}
+
